@@ -449,6 +449,10 @@ h3 {
   font-weight: 500;
 }
 
+.cta {
+  text-decoration: none;
+}
+
 /* Footer */
 footer {
   background-color: var(--color-dark);
